@@ -76,10 +76,7 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale3d(1.8, 1.8, 1.0);;
 }
-#exp-page {
-  padding-top: auto;
-  padding-bottom: auto;
-}
+
 .tag {
   background-color: #efefef;
   color: black;
